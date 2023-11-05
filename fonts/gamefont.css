@@ -1,0 +1,9 @@
+@font-face {
+    font-family: GameFont;
+    src: url("pixelated_game_font.ttf");
+    image-rendering: pixelated;
+    font-smooth: none 0px !important;
+}
+CANVAS{
+  image-rendering: pixelated;
+}
